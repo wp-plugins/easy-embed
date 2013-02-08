@@ -3,10 +3,10 @@ Contributors: alexmansfield
 Donate link: http://alexmansfield.com/
 Tags: embed, code, html
 Requires at least: 2.8
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 3.5.1
+Stable tag: 1.1
 
-Allows code to be easily embedded in posts and pages.
+Allows any code to be easily embedded in posts and pages.
 
 == Description ==
 
@@ -30,6 +30,9 @@ To use the plugin, all you have to do is create a custom field (you can name it 
 No questions yet. Feel free to ask away!
 
 == Changelog ==
+
+= 1.1 =
+* Tested with newer version of WordPress.
 
 = 1.0 =
 * First version, no changes yet.
