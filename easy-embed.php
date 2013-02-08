@@ -5,7 +5,7 @@ Plugin Name: Easy Embed
 Plugin URI: http://wordpress.org/#
 Description: Allows the embedding of any code and protects it from being modified by the WordPress editor.
 Author: Alex Mansfield
-Version: 1.0
+Version: 1.1
 Author URI: http://alexmansfield.com/
 */
 
