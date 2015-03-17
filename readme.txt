@@ -3,8 +3,8 @@ Contributors: alexmansfield
 Donate link: http://alexmansfield.com/
 Tags: embed, code, html
 Requires at least: 2.8
-Tested up to: 3.5.1
-Stable tag: 1.1
+Tested up to: 4.1.1
+Stable tag: 1.2
 
 Allows any code to be easily embedded in posts and pages.
 
@@ -21,6 +21,7 @@ To use the plugin, all you have to do is create a custom field (you can name it 
 
 1. Upload the `easy-embed` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Add the code you want to embed to a custom field. Name this custom field whatever you would like.
 1. Place `[easyembed field="name-of-custom-field"]` in your posts or pages where you want the code to be added.
 
 == Frequently Asked Questions ==
@@ -30,6 +31,10 @@ To use the plugin, all you have to do is create a custom field (you can name it 
 No questions yet. Feel free to ask away!
 
 == Changelog ==
+
+= 1.2 =
+* Tested with newer version of WordPress.
+* Improved installation documentation.
 
 = 1.1 =
 * Tested with newer version of WordPress.
